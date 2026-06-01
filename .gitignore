@@ -1,2 +1,14 @@
 AGENTS.md
 CODEX_WORFLOW  
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Virtual environments
+.venv/
+venv/
+env/
